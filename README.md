@@ -1,4 +1,4 @@
-## Pneumonia Detection from Chest X-Ray Images using Transfer Learning                                             
+## Pneumonia Detection from Chest X-Ray Images                                         
 
 <pre>
 Domain             : Computer Vision, Machine Learning
@@ -14,31 +14,7 @@ Application        : Image Recognition, Image Classification, Medical Imaging
 3. With Custom Deep Convololutional Neural Network attained testing accuracy 89.53% and loss 0.41.
 </pre>
 
-#### Code
-<pre>
-GitHub Link      : <a href=https://github.com/anjanatiha/Detection-of-Pneumonia-from-Chest-X-Ray-Images>Detection of Pneumonia from Chest X-Ray Images(GitHub)</a>
-GitLab Link      : <a href=https://gitlab.com/anjanatiha/Detection-of-Pneumonia-from-Chest-X-Ray-Images>Detection of Pneumonia from Chest X-Ray Images(GitLab)</a>
-Portfolio        : <a href=https://anjanatiha.wixsite.com/website>Anjana Tiha's Portfolio</a>
-</pre>
 
-#### Dataset
-<pre>
-Dataset Name     : Chest X-Ray Images (Pneumonia)
-Dataset Link     : <a href=https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia>Chest X-Ray Images (Pneumonia) Dataset (Kaggle)</a>
-                 : <a href=https://data.mendeley.com/datasets/rscbjbr9sj/2>Chest X-Ray Images (Pneumonia) Dataset (Original Dataset)</a>
-Original Paper   : <a href=https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5>Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning</a>
-                   (Daniel S. Kermany, Michael Goldbaum, Wenjia Cai, M. Anthony Lewis, Huimin Xia, Kang Zhang)
-                   https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
-</pre>
-
-<pre>
-<b>Dataset Details</b>
-Dataset Name            : Chest X-Ray Images (Pneumonia)
-Number of Class         : 2
-Number/Size of Images   : Total      : 5856 (1.15 Gigabyte (GB))
-                          Training   : 5216 (1.07 Gigabyte (GB))
-                          Validation : 320  (42.8 Megabyte (MB))
-                          Testing    : 320  (35.4 Megabyte (MB))
 
 <b>Model Parameters</b>
 Machine Learning Library: Keras
