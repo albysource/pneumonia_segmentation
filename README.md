@@ -39,7 +39,7 @@ Recall (Pneumonia)      : 95.48% (For positive class)
 
 
 <kbd>
-<a href="https://i.imgur.com/km4MF3J.png"></a>
+<a href="[https://i.imgur.com/km4MF3J.png](https://imgur.com/km4MF3J)"></a>
 </kbd>
 
 
